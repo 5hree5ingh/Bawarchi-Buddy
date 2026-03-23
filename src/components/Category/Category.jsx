@@ -3,7 +3,7 @@ import Button from "../Button/Button"
 import Heading from '../Heading/Heading'
 import spices from '../../assets/spices.png'
 import chilli_powder from '../../assets/chilli_powder.png'
-import shahi_paneer from '../../assets/Ready_made_powder.png'
+import shahi_paneer from '../../assets/Offer.png'
 const Card_details = [
   {
     "id": 1,

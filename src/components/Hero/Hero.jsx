@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from '../Button/Button';
-import Spice from "../../assets/Spice.png";
+import Spice from "../../assets/spices.png";
 
 const Hero = () => {
     return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import Heading from '../Heading/Heading'
-import Basket from "../../assets/image.png"
+import Basket from "../../assets/basket-full-vegetables.png"
 import { FaHeart } from "react-icons/fa6";
 import { FaLeaf } from "react-icons/fa";
 import { FaHandHoldingHeart } from "react-icons/fa";
